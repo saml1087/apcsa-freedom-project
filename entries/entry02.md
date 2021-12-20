@@ -32,6 +32,10 @@ Lastly, the line of code above deals with the **_Scene Manager_** of Unity. It's
 
 These were just a few lines of code that I used in my project, but I believe that they were very powerful and useful for my personal game.
 
+In the **Engineering Design Process**, I'm currently **creating a prototype**. I'm not near finishing my game, but I am making progression in learning to create a very basic template where everything works. I have basic physics involved in the game and simple forces that are being generated. Obviously, it doesn't look appealing to the eye yet, but in terms of functionality, it is going well.
+
+Two important skills I've learned is learning **how to learn** and being **organized**. As mentioned earlier, I've found my way of learning using the three step strategy listed above. I feel like I'm making progress with the way I'm learning by both taking notes and trying it hands on. However, with my notes, I feel like I'm also being more organized. Being organized makes it so much easier to efficiently incorporate code into my game. I've been consistently organizing my code in a google doc where I have my code explained which makes it easier for me to process new code.
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
