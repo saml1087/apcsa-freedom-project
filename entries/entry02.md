@@ -7,7 +7,7 @@ Throughout the previous weeks, I've been making progress in my Freedom Project. 
 2. Taking Notes on Syntax
 3. Using Notes to Create Game
 
-To further elaborate on these steps, I'll be explaining these steps in detail. First, when I watch a Unity game tutorial on YouTube, it's no longer than 30 minutes. For example, I watched ["Learn C# Scripting for Unity in 15 Minutes (2020)"](https://www.youtube.com/watch?v=9tMvzrqBUP8&t=615s). This leads me to my second step. I'm actively taking notes. Obviously learning a new scripting language will take a lot of absorbing new information. By taking notes, I'm keeping track of things that could _potentially_ be used in my personal game. This transitions me to the third step, which is putting these basic syntax to use in my game. I'm trying to incorporate what I've learned into the game. Obviously, I'm not going to be using every line of code that the video addresses, but I do take note of it so that when I do have to use it, I'll know how to use it.
+To further elaborate on these steps, I'll be explaining these steps in detail. First, when I watch a Unity game tutorial on YouTube, it's no longer than 30 minutes. For example, I watched ["Learn C# Scripting for Unity in 15 Minutes (2020)"](https://www.youtube.com/watch?v=9tMvzrqBUP8&t=615s). This leads me to my second step. I'm actively taking notes on a [google doc](https://docs.google.com/document/d/1d4agm-SyfcIxGI2hSLtlAM7wJeoNXJsZks-7GvF_UCM/edit) . Obviously learning a new scripting language will take a lot of absorbing new information. By taking notes, I'm keeping track of things that could _potentially_ be used in my personal game. This transitions me to the third step, which is putting these basic syntax to use in my game. I'm trying to incorporate what I've learned into the game. Obviously, I'm not going to be using every line of code that the video addresses, but I do take note of it so that when I do have to use it, I'll know how to use it.
 
 To demonstrate some of my learning, I'll briefly explained some lines of code that I've learned and how I have implemented them in my game.
 
@@ -38,7 +38,7 @@ Two important skills I've learned is learning **how to learn** and being **organ
 
 #### Plans for Winter Break!!
 
-I do plan to relax and just enjoy the break. The whole semester I had been stressing over college applications but that's finally over (but I still have to worry about finishing Financial Aid). Other than that, I hope to just not worry about homework, sleep alot, and play a lot of videogames. I might do some learning in the side in preparation for the Stadia Game Jam that takes place in January. So for that, I plan to explore Lua a little bit and try to understand some concepts, maybe even apply to my learning of Unity. Other than that I hope to have a restful break!
+I do plan to relax and just enjoy the break. The whole semester I had been stressing over college applications but that's finally over (but I still have to worry about finishing Financial Aid). Other than that, I hope to just not worry about homework, sleep alot, and play a lot of videogames. I might do some learning in the side in preparation for the Stadia Game Jam that takes place in January. So for that, I plan to explore Lua a little bit and try to understand some concepts, maybe even apply to my learning of Unity. But lastly and most importantly, I hope to have a restful break!
 
 
 [Previous](entry01.md) | [Next](entry03.md)
