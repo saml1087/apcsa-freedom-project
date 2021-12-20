@@ -13,18 +13,24 @@ To demonstrate some of my learning, I'll briefly explained some lines of code th
 
 ```c#
 Input.GetKeyDown(KeyCode.Space))
+```
+The line of code above is just the game detecting whether the user is pressing the space key. It's a basic useful syntax because in my game, when I want to listen for an input for any key, I can simply call that line of code and change the **_KeyCode_** to the necessary key.
 
+```c#
 private void OnCollisionEnter(Collision collision) //collision is the object that hits the gameObject
 {
 	collision.gameObject.tag == “string”
 	collision.gameObject  // the collided object
 }
+```
+The block of code above is a more general method that's useful for my game in particular. It's basically a built in method in Unity that listens for any **_collision_** on an item. Because my game deals with shooting a paperball into a bucket, it's quite useful for me to detect a collision from inside the bucket from the paperball. With that method, I can add a point system that increments whenever that condition is met.
 
+```c#
 SceneManager.LoadScene(“name”);
 ```
+Lastly, the line of code above deals with the **_Scene Manager_** of Unity. It's a simple yet useful code that helps transition the current camera to another stage or scene. If I wanted multiple levels of my game, (currently I have two as the most viable product) I can call this line of code and transition to the necessary scene.
 
-From the code above, the first line of code is just the game detecting whether the user is pressing the space key. It's a basic useful syntax because in my game, when I want to listen for an input for any key, I can simply call that line of code and change the _KeyCode_ to the necessary key. The second block of code is a more general method that's useful for my game in particular. It's basically a built in method in Unity that listens for any _collision_ on an item. Because my game deals with shooting a paperball into a bucket, it's quite useful for me to detect a collision from inside the bucket from the paperball. With that method, I can add a point system that increments whenever that condition is met. Lastly, the last line of code deals with the _Scene Manager_ of Unity. It's a simple yet useful code that helps transition the current camera to another stage or scene. These were just a few lines of code that I thought were useful to connect back to my project.
-
+These were just a few lines of code that I used in my project, but I believe that they were very powerful and useful for my personal game.
 
 
 [Previous](entry01.md) | [Next](entry03.md)
