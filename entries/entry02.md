@@ -36,6 +36,10 @@ In the **Engineering Design Process**, I'm currently **creating a prototype**. I
 
 Two important skills I've learned is learning **how to learn** and being **organized**. As mentioned earlier, I've found my way of learning using the three step strategy listed above. I feel like I'm making progress with the way I'm learning by both taking notes and trying it hands on. However, with my notes, I feel like I'm also being more organized. Being organized makes it so much easier to efficiently incorporate code into my game. I've been consistently organizing my code in a google doc where I have my code explained which makes it easier for me to process new code.
 
+#### Plans for Winter Break!!
+
+I do plan to relax and just enjoy the break. The whole semester I had been stressing over college applications but that's finally over (but I still have to worry about finishing Financial Aid). Other than that, I hope to just not worry about homework, sleep alot, and play a lot of videogames. I might do some learning in the side in preparation for the Stadia Game Jam that takes place in January. So for that, I plan to explore Lua a little bit and try to understand some concepts, maybe even apply to my learning of Unity. Other than that I hope to have a restful break!
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
