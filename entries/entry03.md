@@ -59,7 +59,7 @@ In order to solve this, I found an [article](https://www.tutorialsteacher.com/ar
 
 With the first method,
 
-``` java
+``` c#
 // Top of script
 Using System;
 
