@@ -70,13 +70,19 @@ userNum = Int16.Parse(userInput); // Essentially converts the string userInput i
 With this, I was able to store the the `userInput`, a string, into `userNum`, an int. This value was later used as the force of the upward and right motion of the object.
 
 ### Result
+Screenshot 1: 
+
 ![Screenshot 1](images/entry03-1.PNG)
+*image capturing before ball was launched*
+
+Screenshot 2:
 
 ![Screenshot 2](images/entry03-2.PNG)
+*image capturing after ball was launched*
 
 ### EDP & Skills
 
-In the Engineering Design Process, I'm currently at *Creating the prototype*. I've been learning my tool especially focusing on the content that I'll be using to build my game. Although, it's been at a basic level (basic-models and UI), it's been mainly functional. In terms of what I plan to continue, I want to finish creating the game in the next month. After that, I'll plan to polish the game by making it look more appealing to the player.
+In the Engineering Design Process, I'm currently at **Creating the prototype**. I've been learning my tool especially focusing on the content that I'll be using to build my game. Although, it's been at a basic level (basic-models and UI), it's been mainly functional. In terms of what I plan to continue, I want to finish creating the game in the next month. After that, I'll plan to polish the game by making it look more appealing to the player.
 
 In the past few weeks, I've learned _*to read*_ and _*to have a growth mindset*_. Especially with the documentations and articles on code, I've learned to extract important information and write down what's essential for my game. I also had went through some challenges when dealing with the UI. However, I've learned to embrace through the failure and learn through these mistakes.
 
