@@ -70,9 +70,9 @@ userNum = Int16.Parse(userInput); // Essentially converts the string userInput i
 With this, I was able to store the the `userInput`, a string, into `userNum`, an int. This value was later used as the force of the upward and right motion of the object.
 
 ### Result
-![Screenshot 1](/images/entry03-1.PNG)
+![Screenshot 1](images/entry03-1.PNG)
 
-![Screenshot 2](/images/entry03-2.PNG)
+![Screenshot 2](images/entry03-2.PNG)
 
 ### EDP & Skills
 
