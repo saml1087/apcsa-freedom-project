@@ -79,9 +79,6 @@ Screenshot 2:
 ![Screenshot 2](images/entry03-2.PNG)
 *image capturing after ball was launched*
 
-### Next Steps
-
-I plan to polish this out more in the future. Other than making it look better, I'm thinking of separating the upward and rightward forces. In addition, after I've gotten the fundamentals to work, I'll begin working on multiple stages (more levels) of the game.
 
 ### EDP & Skills
 
@@ -89,6 +86,9 @@ In the Engineering Design Process, I'm currently at **Creating the prototype**. 
 
 In the past few weeks, I've learned _*to read*_ and _*to have a growth mindset*_. Especially with the documentations and articles on code, I've learned to extract important information and write down what's essential for my game. I also had went through some challenges when dealing with the UI. However, I've learned to embrace through the failure and learn through these mistakes. I will continue to learn C# and hopefully work efficiently towards my MVP.
 
+### Next Steps
+
+I plan to polish this out more in the future. Other than making it look better, I'm thinking of separating the upward and rightward forces (Allowing user to enter two input values). In addition, after I've gotten the fundamentals to work, I'll begin working on multiple stages (more levels) of the game.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
