@@ -9,7 +9,7 @@ In Unity, there can be multiple scenes which are typically used to create multip
 
 I have added two different input field for the user. Each input field correlates to either the upward or rightward force.
 
-![Screenshot 1](images/entry04-3.png)
+![Screenshot 1](images/entry04-4.png)
 
 Coding its functionality was relatively simple since I've already created a field input discussed in my last blog entry. I created a second function that handled the upward force.
 
