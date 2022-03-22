@@ -10,6 +10,7 @@ In Unity, there can be multiple scenes which are typically used to create multip
 I have added two different input field for the user. Each input field correlates to either the upward or rightward force.
 
 ![Screenshot 1](images/entry04-3.png)
+
 Coding its functionality was relatively simple since I've already created a field input discussed in my last blog entry. I created a second function that handled the upward force.
 
 In addition, I added more information in the UI, including a guide-related text-box to teach the user about the game. This includes telling the basic controls, their last inputs, and how many attempts are left before failure. After adding all of the UI elements, I watched a [YouTube Tutorial](https://www.youtube.com/watch?v=w3sMD-3OJro) on UI Anchors in order to learn about UI positioning in Unity.
@@ -50,6 +51,7 @@ if(attempts == 0)
 The code above utilizes the RandomizePosition method that I created. In short, it runs the method whenever the player runs out of attempts.
 
 Example of Randomization:
+
 ![Screenshot 1](images/entry04-1.png)
 
 ![Screenshot 2](images/entry04-2.png)
