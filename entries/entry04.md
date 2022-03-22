@@ -52,10 +52,10 @@ The code above utilizes the RandomizePosition method that I created. In short, i
 
 Example of Randomization:
 
-*before*
+*Before:*
 ![Screenshot 1](images/entry04-1.png)
 
-*after*
+*After:*
 ![Screenshot 2](images/entry04-2.png)
 
 Notice the shift of the cube (it shifts to the right).
