@@ -55,7 +55,7 @@ Afterwards, I'll be ready to *communicate the results* of my protocol.
 
 ### Skills
 
-In terms of skills, I've learned to improve my *time management*, especially through creating the MVP plan and sticking with it. It helps with establishing deadlines for myself and being ready to finish a task by that deadline. That definitely helped with the way I handled a deadline, making me more disciplined in a way. This also connects with the other skill of *organization*. By setting an organized plan, I was able to follow through a plan that was easy for me to follow, but at the same time, it also kept me knowing what's my next steps and goals before the SEP Expo.
+In terms of skills, I've learned to improve my *time management*, especially through creating the MVP plan and sticking with it. It helps with establishing deadlines for myself and being ready to finish a task by that deadline. That definitely helped with the way I handled a deadline, making me more disciplined in a way. This also connects with the other skill of *organization*. By setting an organized plan, I was able to follow through a plan that was easy for me to follow, but at the same time, it also kept me knowing what's my next steps and goals that I need to meet.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
