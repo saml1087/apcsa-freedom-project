@@ -40,8 +40,8 @@ I've attached the method above as the runner for the `onClick` event listener. I
 As I mentioned earlier, I've made several new levels to the game. In order for my game to switch to these levels. I had to explore *Scene Management*. After reading more of Unity's [documentations](https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.html) on Scene Management, I was able to change the scenes based on name.
 
 Some important takeaways from that doc were
-* ```c# SceneManager.GetActiveScene()``` - Grab the current scene (Allows the code to read / get scene name)
-*```c# SceneManager.LoadScene("scene-name")``` - Switch to scene by name.
+* ```c# SceneManager.GetActiveScene()``` - Grab the current scene (Allows the code to read / get scene name)  
+* ```c# SceneManager.LoadScene("scene-name")``` - Switch to scene by name.
 
 ![Screenshot 2](images/entry05-2.png)
 
