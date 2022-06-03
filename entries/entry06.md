@@ -16,7 +16,7 @@ Usability: 3.5
 Practicality: 3.5  
 Presentation: 3.75  
 
-You can see the pitch I made [here](https://docs.google.com/document/d/1w1_3vX8mKdbJpubTqMy7QJB__cIoWxFfyVkrENTx2Zs/edit)
+You can see the pitch I made [here](https://docs.google.com/document/d/1w1_3vX8mKdbJpubTqMy7QJB__cIoWxFfyVkrENTx2Zs/edit#heading=h.6o1f62qg6jz9)
 I agree with the grade that I got from the judges. As far as creativity, I did believe that my game was original which is why I've gotten the full score for that component. Usability and Practicality were a little lower in score. I think that if I were to improve this game in the future, I could potentially convert it into more of a simulation that would help students understand physics that correlate with our real world that way it's more practical and usable. 
 
 ### Engineering Design Process & Skills
