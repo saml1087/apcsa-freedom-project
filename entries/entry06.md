@@ -3,7 +3,7 @@
 
 ### Takeaways
 
-After finishing my Unity Project, I've gotten a moment to reflect on what I've done for the school year.
+After finishing my Unity Project, I've gotten a moment to reflect on what I've done for my freedom project over the school year.
 
 #### Feedback from Mr. Mueller!
 In terms of what I could've improve from my in-class presentation, it was really just my name for the game. It does seem super generic name as it was called "Physics Ball Game" which is now renamed into "Physic Bender" !!
@@ -11,10 +11,10 @@ In terms of what I could've improve from my in-class presentation, it was really
 #### Feedback from Judges!
 After pitching my product to the judges, these were the results (out of four):
 
-Creativity: 4
-Usability: 3.5
-Practicality: 3.5
-Presentation: 3.75
+Creativity: 4  
+Usability: 3.5  
+Practicality: 3.5  
+Presentation: 3.75  
 
 I agree with the grade that I got from the judges. As far as creativity, I did believe that my game was original which is why I've gotten the full score for that component. Usability and Practicality were a little lower in score. I think that if I were to improve this game in the future, I could potentially convert it into more of a simulation that would help students understand physics that correlate with our real world that way it's more practical and usable. 
 
@@ -22,7 +22,7 @@ I agree with the grade that I got from the judges. As far as creativity, I did b
 
 In the Engineering Design Process, I'm communicating my results. I have presented my product to the class and will be presenting the product in the SEP Showcase 2022! In terms of creating and improving the protype, I've completed that stage, and now I am prepping for the SEP Showcase in order to communicate my project to those that will be attending the showcase.
 
-Throughout these last few weeks, I've refined my skills of _*consideration*_ and _*attention to detail*_. Especially the week before pitching my product to the judges, I've made sure to be attentive to what the players are going to play and made sure to incorporate color to make my game visually appealing. Moreover, I've  been listening to feedback from peers, teachers, and judges to make my communication of my product better.
+Throughout these last few weeks, I've refined my skills of _*consideration*_ and _*attention to detail*_. Especially the week before pitching my product to the judges, I've made sure to be attentive to what the players are going to play and made sure to incorporate color to make my game visually appealing. Moreover, I've been listening to feedback from peers, teachers, and judges to make my communication of my product better.
 
 
 
