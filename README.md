@@ -2,7 +2,7 @@
 by Sam Lee
 
 ## Context
-The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
+The “Freedom Project” for APCSA is all about innovating an idea with the independent study of a tool in order to create a working prototype throughout the school year. The purpose of this blog is to X.
 
 ## Content
 For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
